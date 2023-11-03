@@ -37,4 +37,4 @@ jobs:
     - name: Test with pytest
       run: |
         python FCalculator.py
-        pytest test_claculator.py
+        python test_claculator.py
