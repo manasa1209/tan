@@ -17,4 +17,3 @@ class Calculator:
             raise ValueError("Division by zero is not allowed")
         return x / y
 
-
